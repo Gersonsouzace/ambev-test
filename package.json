@@ -1,0 +1,15 @@
+{
+  "name": "ambev-cypress-e2e",
+  "version": "1.0.0",
+  "description": "Testes E2E automatizados com Cypress â€” ServeRest Frontend",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:run:chrome": "cypress run --browser chrome",
+    "cy:run:api": "cypress run --spec 'cypress/api_test/**/*.cy.js'",
+    "cy:run:e2e": "cypress run --spec 'cypress/e2e/**/*.cy.js'"
+  },
+  "devDependencies": {
+    "cypress": "^14.5.4"
+  }
+}

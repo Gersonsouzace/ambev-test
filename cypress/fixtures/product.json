@@ -1,0 +1,7 @@
+{
+  "nome": "Produto Fixture",
+  "preco": 150,
+  "descricao": "Produto de referência para testes automatizados",
+  "quantidade": 50,
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/PNG_transparency_demonstration_1.png/120px-PNG_transparency_demonstration_1.png"
+}

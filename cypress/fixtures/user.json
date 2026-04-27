@@ -1,0 +1,6 @@
+{
+  "nome": "Usuário Fixture",
+  "email": "usuario.fixture@qa.com.br",
+  "password": "Test@1234",
+  "administrador": "false"
+}
